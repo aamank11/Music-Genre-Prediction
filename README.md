@@ -1,0 +1,1 @@
+This was my first practice with machine learning using a small data set. Thank you to Programming with Mosh for helping me understand machine learning and giving some tutorials on it. This project is meant to predict what kind of music genre the user would like based on their age and gender.
